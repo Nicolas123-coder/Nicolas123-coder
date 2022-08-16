@@ -16,7 +16,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nicolas Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Nicolas123-coder&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 </details>
 
-### My Website CI/CD stats 
+### My Website CI/CD stats :point_down: 
 
 ![actions build](https://github.com/Nicolas123-coder/portifolio/actions/workflows/CI.yml/badge.svg)
 ![actions build](https://github.com/Nicolas123-coder/portifolio/actions/workflows/CD.yml/badge.svg)
