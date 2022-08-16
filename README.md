@@ -19,3 +19,7 @@
 ### My Website build stats :point_down: 
 
 ![actions build](https://github.com/Nicolas123-coder/portifolio/actions/workflows/CI.yml/badge.svg)
+
+
+## GitHub Profile Trophy 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nicolas123-coder&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
