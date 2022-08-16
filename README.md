@@ -1,4 +1,6 @@
-### Hi there 👋, my name is Nicolas de Barros
+### Hi there, my name is Nicolas de Barros
+
+<img src='https://github.com/Mitesh411/Mitesh411/blob/master/handshake.gif' width="100px" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas123-coder"/>
 
