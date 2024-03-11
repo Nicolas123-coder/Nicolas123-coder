@@ -11,8 +11,7 @@
 
 ## Stats 📈
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas123-coder"/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nicolas" src="https://github-readme-stats.vercel.app/api/?username=Nicolas123-coder&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <br/>
+    
 
 ## My Skills ⚡
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
