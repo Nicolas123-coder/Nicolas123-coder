@@ -4,7 +4,7 @@
 </br>
 📍 São Paulo
 </br>
-🎓 Graduating in Computer Science (Mackenzie SP)
+🎓 Graduated in Computer Science (Mackenzie SP)
 </br>
 💡 Love to learn and build new things 
 </br>
